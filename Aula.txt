@@ -1,0 +1,32 @@
+Aula 17/05 
+
+Ordenação por seleção:
+comparação: O(n²)
+
+Ordenação por inserção:
+Pega o segundo elemento e vê se o 1 e maior que ele se sim ele troca 
+- Metodo estavel 
+- Quadratica
+
+Complexidade :
+Anel interno 
+-Pior caso: i
+Anel externo 
+-Pior caso: O(n²)
+
+Bouble Sorte - Pega o primeiro elemento e vou comparando com todos os elementos do vetor 
+
+1º n-1 comparação 
+   n-1 troca /// assim para todos os casos 
+2n²
+
+- Complexidade:
+comparação: O(n²)
+
+-Estavel 
+
+- Melhoria: fazer uma varredura inicial e vê se vai preciso fazer uma troca ou não.
+
+
+
+
